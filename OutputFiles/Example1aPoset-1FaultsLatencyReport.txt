@@ -1,0 +1,6 @@
+Latency Report
+Maximum latency for F0:0 is 3
+Maximum latency for F0:1 is 3
+******************************
+Maximum latency for F1:0 is 6
+******************************

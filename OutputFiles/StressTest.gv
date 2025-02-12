@@ -1,0 +1,35 @@
+strict digraph StressTest {
+    B  -> C  -> D; 
+    A  -> B  -> C  -> D  -> E; 
+    C  -> D  -> E  -> F  -> G  -> H  -> I; 
+    A  -> B  -> C  -> D  -> E  -> J  -> K  -> L; 
+    C  -> D  -> E  -> J  -> K  -> L; 
+    B  -> C  -> D; 
+    A  -> B  -> C  -> D  -> E; 
+    C  -> D  -> E  -> F  -> G  -> H  -> I; 
+    A  -> B  -> C  -> D  -> E  -> J  -> K  -> L; 
+    C  -> D  -> E  -> J  -> K  -> L; 
+    N  -> O  -> P; 
+    M  -> N  -> O  -> P  -> Q; 
+    O  -> P  -> Q  -> R  -> S  -> T  -> U; 
+    M  -> N  -> O  -> P  -> Q  -> V  -> W  -> Y; 
+    O  -> P  -> Q  -> V  -> W  -> Y; 
+labelloc  =  "t" 
+label = <Graph StressTest <br/>
+Flow F1: B -&#62; C -&#62; D<br/>
+Flow F5: A -&#62; B -&#62; C -&#62; D -&#62; E<br/>
+Flow F2: C -&#62; D -&#62; E -&#62; F -&#62; G -&#62; H -&#62; I<br/>
+Flow F4: A -&#62; B -&#62; C -&#62; D -&#62; E -&#62; J -&#62; K -&#62; L<br/>
+Flow F3: C -&#62; D -&#62; E -&#62; J -&#62; K -&#62; L<br/>
+Flow F6: B -&#62; C -&#62; D<br/>
+Flow F7: A -&#62; B -&#62; C -&#62; D -&#62; E<br/>
+Flow F8: C -&#62; D -&#62; E -&#62; F -&#62; G -&#62; H -&#62; I<br/>
+Flow F9: A -&#62; B -&#62; C -&#62; D -&#62; E -&#62; J -&#62; K -&#62; L<br/>
+Flow F10: C -&#62; D -&#62; E -&#62; J -&#62; K -&#62; L<br/>
+Flow AF1: N -&#62; O -&#62; P<br/>
+Flow AF5: M -&#62; N -&#62; O -&#62; P -&#62; Q<br/>
+Flow AF2: O -&#62; P -&#62; Q -&#62; R -&#62; S -&#62; T -&#62; U<br/>
+Flow AF4: M -&#62; N -&#62; O -&#62; P -&#62; Q -&#62; V -&#62; W -&#62; Y<br/>
+Flow AF10: O -&#62; P -&#62; Q -&#62; V -&#62; W -&#62; Y<br/>
+>
+} 

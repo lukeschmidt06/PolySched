@@ -1,0 +1,8 @@
+Example3 {
+F0: A -> B -> C
+F1: C -> B -> A
+F2: D -> B -> F
+F3: P -> B -> R 
+F4: G -> B -> I 
+F5: V -> B -> X 
+}

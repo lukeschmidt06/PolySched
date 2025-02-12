@@ -1,0 +1,7 @@
+WARP_Example1A{
+// M = 0.9 and End-to-End reliability = 0.99
+// Flow F0 has a minimum communication cost of 2 and a worst-case communication cost of 4
+ F0 (0,10,10,0) : A -2-> B -2-> C
+// Flow F1 has a minimum communication cost of 2 and a worst-case communication cost of 4
+ F1 (1,20,20,0) : C -2-> B -2-> A
+}

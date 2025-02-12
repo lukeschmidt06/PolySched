@@ -1,0 +1,6 @@
+Latency Report
+UNKNOWN latency for F0:0; Not enough transmissions attempted
+UNKNOWN latency for F0:1; Not enough transmissions attempted
+******************************
+UNKNOWN latency for F1:0; Not enough transmissions attempted
+******************************

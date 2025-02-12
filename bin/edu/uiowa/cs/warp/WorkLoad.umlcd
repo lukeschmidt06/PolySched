@@ -1,0 +1,1074 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.diagrams="http://ns.yatta-solutions.com/umllab/diagrams/1.1.0" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_A9Ht4GYVEe6erPWWd6z1FQ">
+  <modelElement href="WorkLoad.uml#_BkGOUGYVEe6erPWWd6z1FQ"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_Exf-cGYVEe6erPWWd6z1FQ" targetItem="_ExsLuWYVEe6erPWWd6z1FQ" sourceItem="_ExU_UGYVEe6erPWWd6z1FQ"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_ExiasGYVEe6erPWWd6z1FQ" targetItem="_ExsL_GYVEe6erPWWd6z1FQ" sourceItem="_ExhzoGYVEe6erPWWd6z1FQ"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_ExiasmYVEe6erPWWd6z1FQ" targetItem="_ExsMAWYVEe6erPWWd6z1FQ" sourceItem="_ExiasWYVEe6erPWWd6z1FQ"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_ExiatGYVEe6erPWWd6z1FQ" targetItem="_ExsMBmYVEe6erPWWd6z1FQ" sourceItem="_Exias2YVEe6erPWWd6z1FQ"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_ExjBwWYVEe6erPWWd6z1FQ" targetItem="_ExsMC2YVEe6erPWWd6z1FQ" sourceItem="_ExjBwGYVEe6erPWWd6z1FQ"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_ExjBw2YVEe6erPWWd6z1FQ" targetItem="_ExsMEGYVEe6erPWWd6z1FQ" sourceItem="_ExjBwmYVEe6erPWWd6z1FQ"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_ExjBxWYVEe6erPWWd6z1FQ" targetItem="_ExsMFWYVEe6erPWWd6z1FQ" sourceItem="_ExjBxGYVEe6erPWWd6z1FQ"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_ExjBx2YVEe6erPWWd6z1FQ" targetItem="_ExsMG2YVEe6erPWWd6z1FQ" sourceItem="_ExjBxmYVEe6erPWWd6z1FQ"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_Exjo0WYVEe6erPWWd6z1FQ" targetItem="_ExsMIWYVEe6erPWWd6z1FQ" sourceItem="_Exjo0GYVEe6erPWWd6z1FQ"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_Exjo02YVEe6erPWWd6z1FQ" targetItem="_ExsMKmYVEe6erPWWd6z1FQ" sourceItem="_Exjo0mYVEe6erPWWd6z1FQ"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_ExohUGYVEe6erPWWd6z1FQ" targetItem="_ExsNMGYVEe6erPWWd6z1FQ" sourceItem="_ExleAGYVEe6erPWWd6z1FQ"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_ExpIYGYVEe6erPWWd6z1FQ" targetItem="_ExsNP2YVEe6erPWWd6z1FQ" sourceItem="_ExohUWYVEe6erPWWd6z1FQ"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_ExpIYmYVEe6erPWWd6z1FQ" targetItem="_ExsNUWYVEe6erPWWd6z1FQ" sourceItem="_ExpIYWYVEe6erPWWd6z1FQ"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_ExpIZGYVEe6erPWWd6z1FQ" targetItem="_ExsNV2YVEe6erPWWd6z1FQ" sourceItem="_ExpIY2YVEe6erPWWd6z1FQ"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_ExrkoGYVEe6erPWWd6z1FQ" target="_ExsLuWYVEe6erPWWd6z1FQ">
+    <modelElement href="WorkLoad.uml#_B3xYQGYVEe6erPWWd6z1FQ"/>
+    <nameVisual xmi:id="_ExrkoWYVEe6erPWWd6z1FQ" text=""/>
+    <sourceRole xmi:id="_ExrkomYVEe6erPWWd6z1FQ" aggregationKind="NONE" name="flows" navigable="true">
+      <modelElement href="WorkLoad.uml#_B3LiaWYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_Exrko2YVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExrkpGYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_ExrkpWYVEe6erPWWd6z1FQ" aggregationKind="NONE" name="">
+      <modelElement href="WorkLoad.uml#_B3xYQWYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExrkpmYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_Exrkp2YVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_ExrkqGYVEe6erPWWd6z1FQ" target="_ExsLuWYVEe6erPWWd6z1FQ">
+    <modelElement href="WorkLoad.uml#_B3xYQmYVEe6erPWWd6z1FQ"/>
+    <nameVisual xmi:id="_ExrkqWYVEe6erPWWd6z1FQ" text=""/>
+    <sourceRole xmi:id="_ExrkqmYVEe6erPWWd6z1FQ" aggregationKind="NONE" name="nodes" navigable="true">
+      <modelElement href="WorkLoad.uml#_B3LiamYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_Exrkq2YVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExrkrGYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_ExrkrWYVEe6erPWWd6z1FQ" aggregationKind="NONE" name="">
+      <modelElement href="WorkLoad.uml#_B3xYQ2YVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExrkrmYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_Exrkr2YVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_ExrksGYVEe6erPWWd6z1FQ" source="_ExsLuWYVEe6erPWWd6z1FQ">
+    <modelElement href="WorkLoad.uml#_B4P5amYVEe6erPWWd6z1FQ"/>
+    <stereotypes xmi:id="_ExrksWYVEe6erPWWd6z1FQ" name="Reference">
+      <modelElement href="WorkLoad.uml#_B4QgcGYVEe6erPWWd6z1FQ"/>
+    </stereotypes>
+    <nameVisual xmi:id="_ExrksmYVEe6erPWWd6z1FQ" text=""/>
+    <sourceRole xmi:id="_Exrks2YVEe6erPWWd6z1FQ" aggregationKind="NONE" name="">
+      <modelElement href="WorkLoad.uml#_B4P5a2YVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExrktGYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExrktWYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_ExrktmYVEe6erPWWd6z1FQ" aggregationKind="NONE" name="flowNamesInOriginalOrder" navigable="true">
+      <modelElement href="WorkLoad.uml#_B3MJcWYVEe6erPWWd6z1FQ"/>
+      <stereotypes xmi:id="_To-wEGYVEe6uL7xt-YnTxg" name="Generics">
+        <modelElement href="WorkLoad.uml#_B3MJcmYVEe6erPWWd6z1FQ"/>
+      </stereotypes>
+      <visibility xmi:id="_Exrkt2YVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExrkuGYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_ExsLsGYVEe6erPWWd6z1FQ" source="_ExsLuWYVEe6erPWWd6z1FQ">
+    <modelElement href="WorkLoad.uml#_B4QgcWYVEe6erPWWd6z1FQ"/>
+    <stereotypes xmi:id="_ExsLsWYVEe6erPWWd6z1FQ" name="Reference">
+      <modelElement href="WorkLoad.uml#_B4Qgc2YVEe6erPWWd6z1FQ"/>
+    </stereotypes>
+    <nameVisual xmi:id="_ExsLsmYVEe6erPWWd6z1FQ" text=""/>
+    <sourceRole xmi:id="_ExsLs2YVEe6erPWWd6z1FQ" aggregationKind="NONE" name="">
+      <modelElement href="WorkLoad.uml#_B4QgcmYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsLtGYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsLtWYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_ExsLtmYVEe6erPWWd6z1FQ" aggregationKind="NONE" name="flowNamesInPriorityOrder" navigable="true">
+      <modelElement href="WorkLoad.uml#_B3MJdGYVEe6erPWWd6z1FQ"/>
+      <stereotypes xmi:id="_To_-MGYVEe6uL7xt-YnTxg" name="Generics">
+        <modelElement href="WorkLoad.uml#_B3MwgGYVEe6erPWWd6z1FQ"/>
+      </stereotypes>
+      <visibility xmi:id="_ExsLt2YVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsLuGYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_ExU_UGYVEe6erPWWd6z1FQ" sourceConnectionVisual="_Exf-cGYVEe6erPWWd6z1FQ" text="Build the nodes and flows for the workload described in the workload description file, whose name&#xA;is passed into the Constructor via the parameter inputFileName. Good default values for the&#xA;constructors are m = 0.9, e2e = 0.99, and numFaults = 1 when the second constructor is used.&#xA;&#xA;@author sgoddard&#xA;@version 1.4&#xA; *" item="_ExsLuWYVEe6erPWWd6z1FQ">
+    <modelElement href="WorkLoad.uml#_B3wxM2YVEe6erPWWd6z1FQ"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_ExhzoGYVEe6erPWWd6z1FQ" sourceConnectionVisual="_ExiasGYVEe6erPWWd6z1FQ" text="@return the e2e" item="_ExsL_GYVEe6erPWWd6z1FQ">
+    <modelElement href="WorkLoad.uml#_B3x_UmYVEe6erPWWd6z1FQ"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_ExiasWYVEe6erPWWd6z1FQ" sourceConnectionVisual="_ExiasmYVEe6erPWWd6z1FQ" text="@return the intForFlowNames" item="_ExsMAWYVEe6erPWWd6z1FQ">
+    <modelElement href="WorkLoad.uml#_B3x_U2YVEe6erPWWd6z1FQ"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_Exias2YVEe6erPWWd6z1FQ" sourceConnectionVisual="_ExiatGYVEe6erPWWd6z1FQ" text="@return the name" item="_ExsMBmYVEe6erPWWd6z1FQ">
+    <modelElement href="WorkLoad.uml#_B3x_VGYVEe6erPWWd6z1FQ"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_ExjBwGYVEe6erPWWd6z1FQ" sourceConnectionVisual="_ExjBwWYVEe6erPWWd6z1FQ" text="@return the maximum phase of all flows" item="_ExsMC2YVEe6erPWWd6z1FQ">
+    <modelElement href="WorkLoad.uml#_B3x_VmYVEe6erPWWd6z1FQ"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_ExjBwmYVEe6erPWWd6z1FQ" sourceConnectionVisual="_ExjBw2YVEe6erPWWd6z1FQ" text="@return the minimum period of all flows" item="_ExsMEGYVEe6erPWWd6z1FQ">
+    <modelElement href="WorkLoad.uml#_B3x_V2YVEe6erPWWd6z1FQ"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_ExjBxGYVEe6erPWWd6z1FQ" sourceConnectionVisual="_ExjBxWYVEe6erPWWd6z1FQ" text="@param intForFlowNames the intForFlowNames to set" item="_ExsMFWYVEe6erPWWd6z1FQ">
+    <modelElement href="WorkLoad.uml#_B3x_WWYVEe6erPWWd6z1FQ"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_ExjBxmYVEe6erPWWd6z1FQ" sourceConnectionVisual="_ExjBx2YVEe6erPWWd6z1FQ" text="@param name the name to set" item="_ExsMG2YVEe6erPWWd6z1FQ">
+    <modelElement href="WorkLoad.uml#_B3x_WmYVEe6erPWWd6z1FQ"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_Exjo0GYVEe6erPWWd6z1FQ" sourceConnectionVisual="_Exjo0WYVEe6erPWWd6z1FQ" text="@param name the node whose channel is to be set&#xA;   * @param channel the channel to set" item="_ExsMIWYVEe6erPWWd6z1FQ">
+    <modelElement href="WorkLoad.uml#_B3x_W2YVEe6erPWWd6z1FQ"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_Exjo0mYVEe6erPWWd6z1FQ" sourceConnectionVisual="_Exjo02YVEe6erPWWd6z1FQ" text="@return the node channel" item="_ExsMKmYVEe6erPWWd6z1FQ">
+    <modelElement href="WorkLoad.uml#_B3x_XGYVEe6erPWWd6z1FQ"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_ExleAGYVEe6erPWWd6z1FQ" sourceConnectionVisual="_ExohUGYVEe6erPWWd6z1FQ" text="Constructor that builds the workload using end-to-end reliability parameters.&#xA;   * &#xA;   * @param m&#x9;&#x9;&#x9;&#x9;Minimum packet reception rate on each link in the network.&#xA;   * @param e2e&#x9;&#x9;&#x9;&#x9;End-to-end reliability requirement for each flow.&#xA;   * @param inputFileName&#x9;Name of the file containing the workload description." item="_ExsNMGYVEe6erPWWd6z1FQ">
+    <modelElement href="WorkLoad.uml#_B3x_UGYVEe6erPWWd6z1FQ"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_ExohUWYVEe6erPWWd6z1FQ" sourceConnectionVisual="_ExpIYGYVEe6erPWWd6z1FQ" text="Constructor that builds the workload using a fixed fault tolerance approach.&#xA;   * &#xA;   * @param numFaults Number of faults to tolerate on each link.&#xA;   * @param m Minimum packet reception rate on each link in the network.&#xA;   * @param e2e End-to-end reliability requirement for each flow.&#xA;   * @param inputFileName Name of the file containing the workload description." item="_ExsNP2YVEe6erPWWd6z1FQ">
+    <modelElement href="WorkLoad.uml#_B3x_UWYVEe6erPWWd6z1FQ"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_ExpIYWYVEe6erPWWd6z1FQ" sourceConnectionVisual="_ExpIYmYVEe6erPWWd6z1FQ" text="@param minPacketReceptionRate the minPacketReceptionRate to set" item="_ExsNUWYVEe6erPWWd6z1FQ">
+    <modelElement href="WorkLoad.uml#_B3x_VWYVEe6erPWWd6z1FQ"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_ExpIY2YVEe6erPWWd6z1FQ" sourceConnectionVisual="_ExpIZGYVEe6erPWWd6z1FQ" text="@param e2e the e2e to set" item="_ExsNV2YVEe6erPWWd6z1FQ">
+    <modelElement href="WorkLoad.uml#_B3x_WGYVEe6erPWWd6z1FQ"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_ExsLuWYVEe6erPWWd6z1FQ" comments="_ExU_UGYVEe6erPWWd6z1FQ" targetConnectionVisual="_Exf-cGYVEe6erPWWd6z1FQ" name="WorkLoad" associationsIn="_ExrkoGYVEe6erPWWd6z1FQ _ExrkqGYVEe6erPWWd6z1FQ" associationsOut="_ExrksGYVEe6erPWWd6z1FQ _ExsLsGYVEe6erPWWd6z1FQ">
+    <modelElement href="WorkLoad.uml#_BpIfUGYVEe6erPWWd6z1FQ"/>
+    <visualProperties xmi:id="_ExsLumYVEe6erPWWd6z1FQ" position="10.0,30.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_ExsLu2YVEe6erPWWd6z1FQ" label="+"/>
+    <attributes xmi:id="_ExsLvGYVEe6erPWWd6z1FQ" defaultValue="0" name="DEFAULT_PRIORITY" staticAttribute="true">
+      <modelElement href="WorkLoad.uml#_B3K7UGYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsLvWYVEe6erPWWd6z1FQ" label="-"/>
+      <cardinality xmi:id="_ExsLvmYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <type xmi:id="_ExsLv2YVEe6erPWWd6z1FQ" name="Integer">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_ExsLwGYVEe6erPWWd6z1FQ" defaultValue="0" name="DEFAULT_INDEX" staticAttribute="true">
+      <modelElement href="WorkLoad.uml#_B3K7UmYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsLwWYVEe6erPWWd6z1FQ" label="-"/>
+      <cardinality xmi:id="_ExsLwmYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <type xmi:id="_ExsLw2YVEe6erPWWd6z1FQ" name="Integer">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_ExsLxGYVEe6erPWWd6z1FQ" defaultValue="0" name="DEFAULT_TX_NUM" staticAttribute="true">
+      <modelElement href="WorkLoad.uml#_B3K7VGYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsLxWYVEe6erPWWd6z1FQ" label="-"/>
+      <cardinality xmi:id="_ExsLxmYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <type xmi:id="_ExsLx2YVEe6erPWWd6z1FQ" name="Integer">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_ExsLyGYVEe6erPWWd6z1FQ" defaultValue="&quot;\n\tWarning! Bad situation: &quot; + &quot;Flow %s doesn't exist but trying to &quot;" name="FLOW_WARNING" staticAttribute="true">
+      <modelElement href="WorkLoad.uml#_B3K7VmYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsLyWYVEe6erPWWd6z1FQ" label="-"/>
+      <cardinality xmi:id="_ExsLymYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <type xmi:id="_ExsLy2YVEe6erPWWd6z1FQ" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_ExsLzGYVEe6erPWWd6z1FQ" defaultValue="0" name="numFaults">
+      <modelElement href="WorkLoad.uml#_B3K7WGYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsLzWYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsLzmYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <type xmi:id="_ExsLz2YVEe6erPWWd6z1FQ" name="Integer">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_ExsL0GYVEe6erPWWd6z1FQ" defaultValue="0.0" name="minPacketReceptionRate">
+      <modelElement href="WorkLoad.uml#_B3K7WmYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsL0WYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsL0mYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <type xmi:id="_ExsL02YVEe6erPWWd6z1FQ" name="Double">
+        <modelElement href="WorkLoad.uml#_B2PHMGYVEe6erPWWd6z1FQ"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_ExsL1GYVEe6erPWWd6z1FQ" defaultValue="0.0" name="e2e">
+      <modelElement href="WorkLoad.uml#_B3LiYWYVEe6erPWWd6z1FQ"/>
+      <stereotypes xmi:id="_ExsL1WYVEe6erPWWd6z1FQ" name="LegacyStyledElement">
+        <modelElement href="WorkLoad.uml#_B3LiY2YVEe6erPWWd6z1FQ"/>
+      </stereotypes>
+      <visibility xmi:id="_ExsL1mYVEe6erPWWd6z1FQ" label="-"/>
+      <cardinality xmi:id="_ExsL12YVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <type xmi:id="_ExsL2GYVEe6erPWWd6z1FQ" name="Double">
+        <modelElement href="WorkLoad.uml#_B2PHMGYVEe6erPWWd6z1FQ"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_ExsL2WYVEe6erPWWd6z1FQ" defaultValue="false" name="intForNodeNames">
+      <modelElement href="WorkLoad.uml#_B3LiZGYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsL2mYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsL22YVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <type xmi:id="_ExsL3GYVEe6erPWWd6z1FQ" name="Boolean">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_ExsL3WYVEe6erPWWd6z1FQ" defaultValue="false" name="intForFlowNames">
+      <modelElement href="WorkLoad.uml#_B3LiZmYVEe6erPWWd6z1FQ"/>
+      <stereotypes xmi:id="_ExsL3mYVEe6erPWWd6z1FQ" name="LegacyStyledElement">
+        <modelElement href="WorkLoad.uml#_B3LiaGYVEe6erPWWd6z1FQ"/>
+      </stereotypes>
+      <visibility xmi:id="_ExsL32YVEe6erPWWd6z1FQ" label="-"/>
+      <cardinality xmi:id="_ExsL4GYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <type xmi:id="_ExsL4WYVEe6erPWWd6z1FQ" name="Boolean">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_ExsL4mYVEe6erPWWd6z1FQ" name="flows">
+      <modelElement href="WorkLoad.uml#_B3LiaWYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsL42YVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsL5GYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <type xmi:id="_ExsL5WYVEe6erPWWd6z1FQ" name="FlowMap">
+        <modelElement href="WorkLoad.uml#_BndEUGYVEe6erPWWd6z1FQ"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_ExsL5mYVEe6erPWWd6z1FQ" name="nodes">
+      <modelElement href="WorkLoad.uml#_B3LiamYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsL52YVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsL6GYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <type xmi:id="_ExsL6WYVEe6erPWWd6z1FQ" name="NodeMap">
+        <modelElement href="WorkLoad.uml#_BnzCkGYVEe6erPWWd6z1FQ"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_ExsL6mYVEe6erPWWd6z1FQ" name="name">
+      <modelElement href="WorkLoad.uml#_B3Lia2YVEe6erPWWd6z1FQ"/>
+      <stereotypes xmi:id="_ExsL62YVEe6erPWWd6z1FQ" name="LegacyStyledElement">
+        <modelElement href="WorkLoad.uml#_B3MJcGYVEe6erPWWd6z1FQ"/>
+      </stereotypes>
+      <visibility xmi:id="_ExsL7GYVEe6erPWWd6z1FQ" label="-"/>
+      <cardinality xmi:id="_ExsL7WYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <type xmi:id="_ExsL7mYVEe6erPWWd6z1FQ" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_ExsL72YVEe6erPWWd6z1FQ" defaultValue="new ArrayList&lt;>()" name="flowNamesInOriginalOrder">
+      <modelElement href="WorkLoad.uml#_B3MJcWYVEe6erPWWd6z1FQ"/>
+      <stereotypes xmi:id="_TpMygGYVEe6uL7xt-YnTxg" name="Generics"/>
+      <stereotypes xmi:id="_TpOnsGYVEe6uL7xt-YnTxg" name="Generics"/>
+      <stereotypes xmi:id="_TpQc4GYVEe6uL7xt-YnTxg" name="Generics"/>
+      <visibility xmi:id="_ExsL8WYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsL8mYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <type xmi:id="_ExsL82YVEe6erPWWd6z1FQ" name="ArrayList">
+        <modelElement href="WorkLoad.uml#_B0yVsGYVEe6erPWWd6z1FQ"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_ExsL9GYVEe6erPWWd6z1FQ" defaultValue="new ArrayList&lt;>()" name="flowNamesInPriorityOrder">
+      <modelElement href="WorkLoad.uml#_B3MJdGYVEe6erPWWd6z1FQ"/>
+      <stereotypes xmi:id="_TpOnsWYVEe6uL7xt-YnTxg" name="Generics"/>
+      <stereotypes xmi:id="_TpPOwGYVEe6uL7xt-YnTxg" name="Generics"/>
+      <stereotypes xmi:id="_TpQc4WYVEe6uL7xt-YnTxg" name="Generics"/>
+      <visibility xmi:id="_ExsL9mYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsL92YVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <type xmi:id="_ExsL-GYVEe6erPWWd6z1FQ" name="ArrayList">
+        <modelElement href="WorkLoad.uml#_B0yVsGYVEe6erPWWd6z1FQ"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_ExsL-WYVEe6erPWWd6z1FQ" name="setDefaultParameters">
+      <modelElement href="WorkLoad.uml#_BpJtcGYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsL-mYVEe6erPWWd6z1FQ" label="-"/>
+      <cardinality xmi:id="_ExsL-2YVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_ExsL_GYVEe6erPWWd6z1FQ" comments="_ExhzoGYVEe6erPWWd6z1FQ" targetConnectionVisual="_ExiasGYVEe6erPWWd6z1FQ" name="getE2e">
+      <modelElement href="WorkLoad.uml#_BpJtcWYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsL_WYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsL_mYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_ExsL_2YVEe6erPWWd6z1FQ">
+        <modelElement href="WorkLoad.uml#_B2aGUGYVEe6erPWWd6z1FQ"/>
+        <type xmi:id="_ExsMAGYVEe6erPWWd6z1FQ" name="Double">
+          <modelElement href="WorkLoad.uml#_B2PHMGYVEe6erPWWd6z1FQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_ExsMAWYVEe6erPWWd6z1FQ" comments="_ExiasWYVEe6erPWWd6z1FQ" targetConnectionVisual="_ExiasmYVEe6erPWWd6z1FQ" name="getIntForFlowNames">
+      <modelElement href="WorkLoad.uml#_BpJtcmYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsMAmYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsMA2YVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_ExsMBGYVEe6erPWWd6z1FQ">
+        <modelElement href="WorkLoad.uml#_BpJtc2YVEe6erPWWd6z1FQ"/>
+        <type xmi:id="_ExsMBWYVEe6erPWWd6z1FQ" name="Boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_ExsMBmYVEe6erPWWd6z1FQ" comments="_Exias2YVEe6erPWWd6z1FQ" targetConnectionVisual="_ExiatGYVEe6erPWWd6z1FQ" name="getName">
+      <modelElement href="WorkLoad.uml#_BpJtdGYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsMB2YVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsMCGYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_ExsMCWYVEe6erPWWd6z1FQ">
+        <modelElement href="WorkLoad.uml#_BpJtdWYVEe6erPWWd6z1FQ"/>
+        <type xmi:id="_ExsMCmYVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_ExsMC2YVEe6erPWWd6z1FQ" comments="_ExjBwGYVEe6erPWWd6z1FQ" targetConnectionVisual="_ExjBwWYVEe6erPWWd6z1FQ" name="getMaxPhase">
+      <modelElement href="WorkLoad.uml#_BpJtdmYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsMDGYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsMDWYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_ExsMDmYVEe6erPWWd6z1FQ">
+        <modelElement href="WorkLoad.uml#_BpKUgGYVEe6erPWWd6z1FQ"/>
+        <type xmi:id="_ExsMD2YVEe6erPWWd6z1FQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_ExsMEGYVEe6erPWWd6z1FQ" comments="_ExjBwmYVEe6erPWWd6z1FQ" targetConnectionVisual="_ExjBw2YVEe6erPWWd6z1FQ" name="getMinPeriod">
+      <modelElement href="WorkLoad.uml#_BpKUgWYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsMEWYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsMEmYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_ExsME2YVEe6erPWWd6z1FQ">
+        <modelElement href="WorkLoad.uml#_BpKUgmYVEe6erPWWd6z1FQ"/>
+        <type xmi:id="_ExsMFGYVEe6erPWWd6z1FQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_ExsMFWYVEe6erPWWd6z1FQ" comments="_ExjBxGYVEe6erPWWd6z1FQ" targetConnectionVisual="_ExjBxWYVEe6erPWWd6z1FQ" name="setIntForFlowNames">
+      <modelElement href="WorkLoad.uml#_BpKUg2YVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsMFmYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsMF2YVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_ExsMGGYVEe6erPWWd6z1FQ" name="intForFlowNames">
+        <modelElement href="WorkLoad.uml#_BpKUhGYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsMGWYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsMGmYVEe6erPWWd6z1FQ" name="Boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsMG2YVEe6erPWWd6z1FQ" comments="_ExjBxmYVEe6erPWWd6z1FQ" targetConnectionVisual="_ExjBx2YVEe6erPWWd6z1FQ" name="setName">
+      <modelElement href="WorkLoad.uml#_BpKUhWYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsMHGYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsMHWYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_ExsMHmYVEe6erPWWd6z1FQ" name="name">
+        <modelElement href="WorkLoad.uml#_BpKUhmYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsMH2YVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsMIGYVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsMIWYVEe6erPWWd6z1FQ" comments="_Exjo0GYVEe6erPWWd6z1FQ" targetConnectionVisual="_Exjo0WYVEe6erPWWd6z1FQ" name="setNodeChannel">
+      <modelElement href="WorkLoad.uml#_BpKUh2YVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsMImYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsMI2YVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_ExsMJGYVEe6erPWWd6z1FQ" name="name">
+        <modelElement href="WorkLoad.uml#_BpKUiGYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsMJWYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsMJmYVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_ExsMJ2YVEe6erPWWd6z1FQ" name="channel">
+        <modelElement href="WorkLoad.uml#_BpKUiWYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsMKGYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsMKWYVEe6erPWWd6z1FQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsMKmYVEe6erPWWd6z1FQ" comments="_Exjo0mYVEe6erPWWd6z1FQ" targetConnectionVisual="_Exjo02YVEe6erPWWd6z1FQ" name="getNodeChannel">
+      <modelElement href="WorkLoad.uml#_BpKUimYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsMK2YVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsMLGYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_ExsMLWYVEe6erPWWd6z1FQ">
+        <modelElement href="WorkLoad.uml#_BpKUjGYVEe6erPWWd6z1FQ"/>
+        <type xmi:id="_ExsMLmYVEe6erPWWd6z1FQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_ExsML2YVEe6erPWWd6z1FQ" name="name">
+        <modelElement href="WorkLoad.uml#_BpKUi2YVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsMMGYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsMMWYVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsMMmYVEe6erPWWd6z1FQ" name="addFlow">
+      <modelElement href="WorkLoad.uml#_BpK7kGYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsMM2YVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsMNGYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_ExsMNWYVEe6erPWWd6z1FQ" name="flowName">
+        <modelElement href="WorkLoad.uml#_BpK7kWYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsMNmYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsMN2YVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsMOGYVEe6erPWWd6z1FQ" name="isIntForNodeNames">
+      <modelElement href="WorkLoad.uml#_BpK7kmYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsMOWYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsMOmYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_ExsMO2YVEe6erPWWd6z1FQ">
+        <modelElement href="WorkLoad.uml#_BpK7k2YVEe6erPWWd6z1FQ"/>
+        <type xmi:id="_ExsMPGYVEe6erPWWd6z1FQ" name="Boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_ExsMPWYVEe6erPWWd6z1FQ" name="isIntForFlowNames">
+      <modelElement href="WorkLoad.uml#_BpK7lGYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsMPmYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsMP2YVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_ExsMQGYVEe6erPWWd6z1FQ">
+        <modelElement href="WorkLoad.uml#_BpK7lWYVEe6erPWWd6z1FQ"/>
+        <type xmi:id="_ExsMQWYVEe6erPWWd6z1FQ" name="Boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_ExsMQmYVEe6erPWWd6z1FQ" name="addNodeToFlow">
+      <modelElement href="WorkLoad.uml#_BpK7lmYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsMQ2YVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsMRGYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_ExsMRWYVEe6erPWWd6z1FQ" name="flowName">
+        <modelElement href="WorkLoad.uml#_BpK7l2YVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsMRmYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsMR2YVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_ExsMSGYVEe6erPWWd6z1FQ" name="nodeName">
+        <modelElement href="WorkLoad.uml#_BpK7mGYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsMSWYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsMSmYVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsMS2YVEe6erPWWd6z1FQ" name="getFlowPriority">
+      <modelElement href="WorkLoad.uml#_BpK7mWYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsMTGYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsMTWYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_ExsMTmYVEe6erPWWd6z1FQ">
+        <modelElement href="WorkLoad.uml#_BpK7nGYVEe6erPWWd6z1FQ"/>
+        <type xmi:id="_ExsMT2YVEe6erPWWd6z1FQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_ExsMUGYVEe6erPWWd6z1FQ" name="flowName">
+        <modelElement href="WorkLoad.uml#_BpK7mmYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsMUWYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsMUmYVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_ExsMU2YVEe6erPWWd6z1FQ" name="nodeName">
+        <modelElement href="WorkLoad.uml#_BpK7m2YVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsMVGYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsMVWYVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsMVmYVEe6erPWWd6z1FQ" name="setFlowPriority">
+      <modelElement href="WorkLoad.uml#_BpK7nWYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsMV2YVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsMWGYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_ExsMWWYVEe6erPWWd6z1FQ" name="flowName">
+        <modelElement href="WorkLoad.uml#_BpK7nmYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsMWmYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsMW2YVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_ExsMXGYVEe6erPWWd6z1FQ" name="priority">
+        <modelElement href="WorkLoad.uml#_BpK7n2YVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsMXWYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsMXmYVEe6erPWWd6z1FQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsMX2YVEe6erPWWd6z1FQ" name="setFlowPeriod">
+      <modelElement href="WorkLoad.uml#_BpLioGYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsMYGYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsMYWYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_ExsMYmYVEe6erPWWd6z1FQ" name="flowName">
+        <modelElement href="WorkLoad.uml#_BpLioWYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsMY2YVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsMZGYVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_ExsMZWYVEe6erPWWd6z1FQ" name="period">
+        <modelElement href="WorkLoad.uml#_BpLiomYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsMZmYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsMZ2YVEe6erPWWd6z1FQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsMaGYVEe6erPWWd6z1FQ" name="setFlowDeadline">
+      <modelElement href="WorkLoad.uml#_BpLio2YVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsMaWYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsMamYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_ExsMa2YVEe6erPWWd6z1FQ" name="flowName">
+        <modelElement href="WorkLoad.uml#_BpLipGYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsMbGYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsMbWYVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_ExsMbmYVEe6erPWWd6z1FQ" name="deadline">
+        <modelElement href="WorkLoad.uml#_BpLipWYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsMb2YVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsMcGYVEe6erPWWd6z1FQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsMcWYVEe6erPWWd6z1FQ" name="setFlowPhase">
+      <modelElement href="WorkLoad.uml#_BpLipmYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsMcmYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsMc2YVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_ExsMdGYVEe6erPWWd6z1FQ" name="flowName">
+        <modelElement href="WorkLoad.uml#_BpLip2YVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsMdWYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsMdmYVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_ExsMd2YVEe6erPWWd6z1FQ" name="phase">
+        <modelElement href="WorkLoad.uml#_BpLiqGYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsMeGYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsMeWYVEe6erPWWd6z1FQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsMemYVEe6erPWWd6z1FQ" name="getFlowIndex">
+      <modelElement href="WorkLoad.uml#_BpLiqWYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsMe2YVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsMfGYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_ExsMfWYVEe6erPWWd6z1FQ">
+        <modelElement href="WorkLoad.uml#_BpLiq2YVEe6erPWWd6z1FQ"/>
+        <type xmi:id="_ExsMfmYVEe6erPWWd6z1FQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_ExsMf2YVEe6erPWWd6z1FQ" name="flowName">
+        <modelElement href="WorkLoad.uml#_BpLiqmYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsMgGYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsMgWYVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsMgmYVEe6erPWWd6z1FQ" name="getFlowPriority">
+      <modelElement href="WorkLoad.uml#_BpLirGYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsMg2YVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsMhGYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_ExsMhWYVEe6erPWWd6z1FQ">
+        <modelElement href="WorkLoad.uml#_BpLirmYVEe6erPWWd6z1FQ"/>
+        <type xmi:id="_ExsMhmYVEe6erPWWd6z1FQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_ExsMh2YVEe6erPWWd6z1FQ" name="flowName">
+        <modelElement href="WorkLoad.uml#_BpLirWYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsMiGYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsMiWYVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsMimYVEe6erPWWd6z1FQ" name="getFlowPeriod">
+      <modelElement href="WorkLoad.uml#_BpLir2YVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsMi2YVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsMjGYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_ExsMjWYVEe6erPWWd6z1FQ">
+        <modelElement href="WorkLoad.uml#_BpMJsGYVEe6erPWWd6z1FQ"/>
+        <type xmi:id="_ExsMjmYVEe6erPWWd6z1FQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_ExsMj2YVEe6erPWWd6z1FQ" name="flowName">
+        <modelElement href="WorkLoad.uml#_BpLisGYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsMkGYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsMkWYVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsMkmYVEe6erPWWd6z1FQ" name="getFlowDeadline">
+      <modelElement href="WorkLoad.uml#_BpMJsWYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsMk2YVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsMlGYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_ExsMlWYVEe6erPWWd6z1FQ">
+        <modelElement href="WorkLoad.uml#_BpMJs2YVEe6erPWWd6z1FQ"/>
+        <type xmi:id="_ExsMlmYVEe6erPWWd6z1FQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_ExsMl2YVEe6erPWWd6z1FQ" name="flowName">
+        <modelElement href="WorkLoad.uml#_BpMJsmYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsMmGYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsMmWYVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsMmmYVEe6erPWWd6z1FQ" name="getFlowPhase">
+      <modelElement href="WorkLoad.uml#_BpMJtGYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsMm2YVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsMnGYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_ExsMnWYVEe6erPWWd6z1FQ">
+        <modelElement href="WorkLoad.uml#_BpMJtmYVEe6erPWWd6z1FQ"/>
+        <type xmi:id="_ExsMnmYVEe6erPWWd6z1FQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_ExsMn2YVEe6erPWWd6z1FQ" name="flowName">
+        <modelElement href="WorkLoad.uml#_BpMJtWYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsMoGYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsMoWYVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsMomYVEe6erPWWd6z1FQ" name="getFlowTxAttemptsPerLink">
+      <modelElement href="WorkLoad.uml#_BpMJt2YVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsMo2YVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsMpGYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_ExsMpWYVEe6erPWWd6z1FQ">
+        <modelElement href="WorkLoad.uml#_BpMJuWYVEe6erPWWd6z1FQ"/>
+        <type xmi:id="_ExsMpmYVEe6erPWWd6z1FQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_ExsMp2YVEe6erPWWd6z1FQ" name="flowName">
+        <modelElement href="WorkLoad.uml#_BpMJuGYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsMqGYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsMqWYVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsMqmYVEe6erPWWd6z1FQ" name="setFlowsInPriorityOrder">
+      <modelElement href="WorkLoad.uml#_BpMJumYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsMq2YVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsMrGYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_ExsMrWYVEe6erPWWd6z1FQ" name="setFlowsInDMorder">
+      <modelElement href="WorkLoad.uml#_BpMJu2YVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsMrmYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsMr2YVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_ExsMsGYVEe6erPWWd6z1FQ" name="setFlowsInRMorder">
+      <modelElement href="WorkLoad.uml#_BpMJvGYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsMsWYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsMsmYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_ExsMs2YVEe6erPWWd6z1FQ" name="setFlowsInRealTimeHARTorder">
+      <modelElement href="WorkLoad.uml#_BpMJvWYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsMtGYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsMtWYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_ExsMtmYVEe6erPWWd6z1FQ" name="finalizeCurrentFlow">
+      <modelElement href="WorkLoad.uml#_BpMJvmYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsMt2YVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsMuGYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_ExsMuWYVEe6erPWWd6z1FQ" name="flowName">
+        <modelElement href="WorkLoad.uml#_BpMJv2YVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsMumYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsMu2YVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsMvGYVEe6erPWWd6z1FQ" name="nextReleaseTime">
+      <modelElement href="WorkLoad.uml#_BpMwwGYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsMvWYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsMvmYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_ExsMv2YVEe6erPWWd6z1FQ">
+        <modelElement href="WorkLoad.uml#_BpMww2YVEe6erPWWd6z1FQ"/>
+        <type xmi:id="_ExsMwGYVEe6erPWWd6z1FQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_ExsMwWYVEe6erPWWd6z1FQ" name="flowName">
+        <modelElement href="WorkLoad.uml#_BpMwwWYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsMwmYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsMw2YVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_ExsMxGYVEe6erPWWd6z1FQ" name="currentTime">
+        <modelElement href="WorkLoad.uml#_BpMwwmYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsMxWYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsMxmYVEe6erPWWd6z1FQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsMx2YVEe6erPWWd6z1FQ" name="nextAbsoluteDeadline">
+      <modelElement href="WorkLoad.uml#_BpMwxGYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsMyGYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsMyWYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_ExsMymYVEe6erPWWd6z1FQ">
+        <modelElement href="WorkLoad.uml#_BpMwx2YVEe6erPWWd6z1FQ"/>
+        <type xmi:id="_ExsMy2YVEe6erPWWd6z1FQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_ExsMzGYVEe6erPWWd6z1FQ" name="flowName">
+        <modelElement href="WorkLoad.uml#_BpMwxWYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsMzWYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsMzmYVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_ExsMz2YVEe6erPWWd6z1FQ" name="currentTime">
+        <modelElement href="WorkLoad.uml#_BpMwxmYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsM0GYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsM0WYVEe6erPWWd6z1FQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsM0mYVEe6erPWWd6z1FQ" name="finalizeFlowWithE2eParameters">
+      <modelElement href="WorkLoad.uml#_BpMwyGYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsM02YVEe6erPWWd6z1FQ" label="-"/>
+      <cardinality xmi:id="_ExsM1GYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_ExsM1WYVEe6erPWWd6z1FQ" name="flowName">
+        <modelElement href="WorkLoad.uml#_BpMwyWYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsM1mYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsM12YVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsM2GYVEe6erPWWd6z1FQ" name="finalizeFlowWithFixedFaultTolerance">
+      <modelElement href="WorkLoad.uml#_BpMwymYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsM2WYVEe6erPWWd6z1FQ" label="-"/>
+      <cardinality xmi:id="_ExsM2mYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_ExsM22YVEe6erPWWd6z1FQ" name="flowName">
+        <modelElement href="WorkLoad.uml#_BpMwy2YVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsM3GYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsM3WYVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsM3mYVEe6erPWWd6z1FQ" name="getNodeNamesOrderedAlphabetically">
+      <modelElement href="WorkLoad.uml#_BpNX0GYVEe6erPWWd6z1FQ"/>
+      <stereotypes xmi:id="_ExsM32YVEe6erPWWd6z1FQ" name="Array">
+        <modelElement href="WorkLoad.uml#_BpNX02YVEe6erPWWd6z1FQ"/>
+      </stereotypes>
+      <visibility xmi:id="_ExsM4GYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsM4WYVEe6erPWWd6z1FQ" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_ExsM4mYVEe6erPWWd6z1FQ">
+        <modelElement href="WorkLoad.uml#_BpNX0WYVEe6erPWWd6z1FQ"/>
+        <type xmi:id="_ExsM42YVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_ExsM5GYVEe6erPWWd6z1FQ" name="getFlow">
+      <modelElement href="WorkLoad.uml#_BpNX1GYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsM5WYVEe6erPWWd6z1FQ" label="-"/>
+      <cardinality xmi:id="_ExsM5mYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_ExsM52YVEe6erPWWd6z1FQ">
+        <modelElement href="WorkLoad.uml#_B1rGg2YVEe6erPWWd6z1FQ"/>
+        <type xmi:id="_ExsM6GYVEe6erPWWd6z1FQ" name="Flow">
+          <modelElement href="WorkLoad.uml#_BnWWoGYVEe6erPWWd6z1FQ"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_ExsM6WYVEe6erPWWd6z1FQ" name="flowName">
+        <modelElement href="WorkLoad.uml#_BpNX1WYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsM6mYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsM62YVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsM7GYVEe6erPWWd6z1FQ" name="getFlowNames">
+      <modelElement href="WorkLoad.uml#_BpN-4GYVEe6erPWWd6z1FQ"/>
+      <stereotypes xmi:id="_ExsM7WYVEe6erPWWd6z1FQ" name="Array">
+        <modelElement href="WorkLoad.uml#_BpN-42YVEe6erPWWd6z1FQ"/>
+      </stereotypes>
+      <visibility xmi:id="_ExsM7mYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsM72YVEe6erPWWd6z1FQ" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_ExsM8GYVEe6erPWWd6z1FQ">
+        <modelElement href="WorkLoad.uml#_BpN-4WYVEe6erPWWd6z1FQ"/>
+        <type xmi:id="_ExsM8WYVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_ExsM8mYVEe6erPWWd6z1FQ" name="getNodeIndex">
+      <modelElement href="WorkLoad.uml#_BpN-5GYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsM82YVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsM9GYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_ExsM9WYVEe6erPWWd6z1FQ">
+        <modelElement href="WorkLoad.uml#_BpN-5mYVEe6erPWWd6z1FQ"/>
+        <type xmi:id="_ExsM9mYVEe6erPWWd6z1FQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_ExsM92YVEe6erPWWd6z1FQ" name="nodeName">
+        <modelElement href="WorkLoad.uml#_BpN-5WYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsM-GYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsM-WYVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsM-mYVEe6erPWWd6z1FQ" name="getNodesInFlow">
+      <modelElement href="WorkLoad.uml#_BpN-52YVEe6erPWWd6z1FQ"/>
+      <stereotypes xmi:id="_ExsM-2YVEe6erPWWd6z1FQ" name="Array">
+        <modelElement href="WorkLoad.uml#_BpN-62YVEe6erPWWd6z1FQ"/>
+      </stereotypes>
+      <visibility xmi:id="_ExsM_GYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsM_WYVEe6erPWWd6z1FQ" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_ExsM_mYVEe6erPWWd6z1FQ">
+        <modelElement href="WorkLoad.uml#_BpN-6WYVEe6erPWWd6z1FQ"/>
+        <type xmi:id="_ExsM_2YVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_ExsNAGYVEe6erPWWd6z1FQ" name="flowName">
+        <modelElement href="WorkLoad.uml#_BpN-6GYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsNAWYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsNAmYVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsNA2YVEe6erPWWd6z1FQ" name="getHyperPeriod">
+      <modelElement href="WorkLoad.uml#_BpN-7GYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsNBGYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsNBWYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_ExsNBmYVEe6erPWWd6z1FQ">
+        <modelElement href="WorkLoad.uml#_BpN-7WYVEe6erPWWd6z1FQ"/>
+        <type xmi:id="_ExsNB2YVEe6erPWWd6z1FQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_ExsNCGYVEe6erPWWd6z1FQ" name="getTotalTxAttemptsInFlow">
+      <modelElement href="WorkLoad.uml#_BpOl8GYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsNCWYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsNCmYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_ExsNC2YVEe6erPWWd6z1FQ">
+        <modelElement href="WorkLoad.uml#_BpOl8mYVEe6erPWWd6z1FQ"/>
+        <type xmi:id="_ExsNDGYVEe6erPWWd6z1FQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_ExsNDWYVEe6erPWWd6z1FQ" name="flowName">
+        <modelElement href="WorkLoad.uml#_BpOl8WYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsNDmYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsND2YVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsNEGYVEe6erPWWd6z1FQ" name="getNumTxAttemptsPerLink">
+      <modelElement href="WorkLoad.uml#_BpOl82YVEe6erPWWd6z1FQ"/>
+      <stereotypes xmi:id="_ExsNEWYVEe6erPWWd6z1FQ" name="Array">
+        <modelElement href="WorkLoad.uml#_BpOl92YVEe6erPWWd6z1FQ"/>
+      </stereotypes>
+      <visibility xmi:id="_ExsNEmYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsNE2YVEe6erPWWd6z1FQ" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_ExsNFGYVEe6erPWWd6z1FQ">
+        <modelElement href="WorkLoad.uml#_BpOl9WYVEe6erPWWd6z1FQ"/>
+        <type xmi:id="_ExsNFWYVEe6erPWWd6z1FQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_ExsNFmYVEe6erPWWd6z1FQ" name="flowName">
+        <modelElement href="WorkLoad.uml#_BpOl9GYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsNF2YVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsNGGYVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsNGWYVEe6erPWWd6z1FQ" name="maxFlowLength">
+      <modelElement href="WorkLoad.uml#_BpOl-GYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsNGmYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsNG2YVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_ExsNHGYVEe6erPWWd6z1FQ">
+        <modelElement href="WorkLoad.uml#_BpOl-WYVEe6erPWWd6z1FQ"/>
+        <type xmi:id="_ExsNHWYVEe6erPWWd6z1FQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_ExsNHmYVEe6erPWWd6z1FQ" name="getFixedTxPerLinkAndTotalTxCost">
+      <modelElement href="WorkLoad.uml#_B1rGgGYVEe6erPWWd6z1FQ"/>
+      <stereotypes xmi:id="_ExsNH2YVEe6erPWWd6z1FQ" name="Generics">
+        <modelElement href="WorkLoad.uml#_B1rGgmYVEe6erPWWd6z1FQ"/>
+      </stereotypes>
+      <visibility xmi:id="_ExsNIGYVEe6erPWWd6z1FQ" label="-"/>
+      <cardinality xmi:id="_ExsNIWYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_ExsNImYVEe6erPWWd6z1FQ">
+        <modelElement href="WorkLoad.uml#_B2aGVWYVEe6erPWWd6z1FQ"/>
+        <type xmi:id="_ExsNI2YVEe6erPWWd6z1FQ" name="ArrayList">
+          <modelElement href="WorkLoad.uml#_B0yVsGYVEe6erPWWd6z1FQ"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_ExsNJGYVEe6erPWWd6z1FQ" name="flow">
+        <modelElement href="WorkLoad.uml#_B1rGgWYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsNJWYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsNJmYVEe6erPWWd6z1FQ" name="Flow">
+          <modelElement href="WorkLoad.uml#_BnWWoGYVEe6erPWWd6z1FQ"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsNJ2YVEe6erPWWd6z1FQ" name="addEdge">
+      <modelElement href="WorkLoad.uml#_B1rGhGYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsNKGYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsNKWYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_ExsNKmYVEe6erPWWd6z1FQ" name="nodeName">
+        <modelElement href="WorkLoad.uml#_B1rGhWYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsNK2YVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsNLGYVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_ExsNLWYVEe6erPWWd6z1FQ" name="edge">
+        <modelElement href="WorkLoad.uml#_B1rGhmYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsNLmYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsNL2YVEe6erPWWd6z1FQ" name="Edge">
+          <modelElement href="WorkLoad.uml#_BnGfAGYVEe6erPWWd6z1FQ"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsNMGYVEe6erPWWd6z1FQ" comments="_ExleAGYVEe6erPWWd6z1FQ" targetConnectionVisual="_ExohUGYVEe6erPWWd6z1FQ" name="WorkLoad">
+      <modelElement href="WorkLoad.uml#_B2ZfQGYVEe6erPWWd6z1FQ"/>
+      <keywords xmi:id="_ExsNMWYVEe6erPWWd6z1FQ" keyword="create"/>
+      <visibility xmi:id="_ExsNMmYVEe6erPWWd6z1FQ" label="~"/>
+      <cardinality xmi:id="_ExsNM2YVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_ExsNNGYVEe6erPWWd6z1FQ">
+        <modelElement href="WorkLoad.uml#_B2ZfRmYVEe6erPWWd6z1FQ"/>
+        <type xmi:id="_ExsNNWYVEe6erPWWd6z1FQ" name="WorkLoad">
+          <modelElement href="WorkLoad.uml#_BpIfUGYVEe6erPWWd6z1FQ"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_ExsNNmYVEe6erPWWd6z1FQ" name="m">
+        <modelElement href="WorkLoad.uml#_B2ZfQWYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsNN2YVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsNOGYVEe6erPWWd6z1FQ" name="Double">
+          <modelElement href="WorkLoad.uml#_B2PHMGYVEe6erPWWd6z1FQ"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_ExsNOWYVEe6erPWWd6z1FQ" name="e2e">
+        <modelElement href="WorkLoad.uml#_B2ZfQmYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsNOmYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsNO2YVEe6erPWWd6z1FQ" name="Double">
+          <modelElement href="WorkLoad.uml#_B2PHMGYVEe6erPWWd6z1FQ"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_ExsNPGYVEe6erPWWd6z1FQ" name="inputFileName">
+        <modelElement href="WorkLoad.uml#_B2ZfQ2YVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsNPWYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsNPmYVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsNP2YVEe6erPWWd6z1FQ" comments="_ExohUWYVEe6erPWWd6z1FQ" targetConnectionVisual="_ExpIYGYVEe6erPWWd6z1FQ" name="WorkLoad">
+      <modelElement href="WorkLoad.uml#_B2ZfR2YVEe6erPWWd6z1FQ"/>
+      <keywords xmi:id="_ExsNQGYVEe6erPWWd6z1FQ" keyword="create"/>
+      <visibility xmi:id="_ExsNQWYVEe6erPWWd6z1FQ" label="~"/>
+      <cardinality xmi:id="_ExsNQmYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_ExsNQ2YVEe6erPWWd6z1FQ">
+        <modelElement href="WorkLoad.uml#_B2ZfTmYVEe6erPWWd6z1FQ"/>
+        <type xmi:id="_ExsNRGYVEe6erPWWd6z1FQ" name="WorkLoad">
+          <modelElement href="WorkLoad.uml#_BpIfUGYVEe6erPWWd6z1FQ"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_ExsNRWYVEe6erPWWd6z1FQ" name="numFaults">
+        <modelElement href="WorkLoad.uml#_B2ZfSGYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsNRmYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsNR2YVEe6erPWWd6z1FQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_ExsNSGYVEe6erPWWd6z1FQ" name="m">
+        <modelElement href="WorkLoad.uml#_B2ZfSWYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsNSWYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsNSmYVEe6erPWWd6z1FQ" name="Double">
+          <modelElement href="WorkLoad.uml#_B2PHMGYVEe6erPWWd6z1FQ"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_ExsNS2YVEe6erPWWd6z1FQ" name="e2e">
+        <modelElement href="WorkLoad.uml#_B2ZfSmYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsNTGYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsNTWYVEe6erPWWd6z1FQ" name="Double">
+          <modelElement href="WorkLoad.uml#_B2PHMGYVEe6erPWWd6z1FQ"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_ExsNTmYVEe6erPWWd6z1FQ" name="inputFileName">
+        <modelElement href="WorkLoad.uml#_B2ZfS2YVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsNT2YVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsNUGYVEe6erPWWd6z1FQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsNUWYVEe6erPWWd6z1FQ" comments="_ExpIYWYVEe6erPWWd6z1FQ" targetConnectionVisual="_ExpIYmYVEe6erPWWd6z1FQ" name="setMinPacketReceptionRate">
+      <modelElement href="WorkLoad.uml#_B2aGUWYVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsNUmYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsNU2YVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_ExsNVGYVEe6erPWWd6z1FQ" name="minPacketReceptionRate">
+        <modelElement href="WorkLoad.uml#_B2aGUmYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsNVWYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsNVmYVEe6erPWWd6z1FQ" name="Double">
+          <modelElement href="WorkLoad.uml#_B2PHMGYVEe6erPWWd6z1FQ"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsNV2YVEe6erPWWd6z1FQ" comments="_ExpIY2YVEe6erPWWd6z1FQ" targetConnectionVisual="_ExpIZGYVEe6erPWWd6z1FQ" name="setE2e">
+      <modelElement href="WorkLoad.uml#_B2aGU2YVEe6erPWWd6z1FQ"/>
+      <visibility xmi:id="_ExsNWGYVEe6erPWWd6z1FQ" label="+"/>
+      <cardinality xmi:id="_ExsNWWYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_ExsNWmYVEe6erPWWd6z1FQ" name="e2e">
+        <modelElement href="WorkLoad.uml#_B2aGVGYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsNW2YVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsNXGYVEe6erPWWd6z1FQ" name="Double">
+          <modelElement href="WorkLoad.uml#_B2PHMGYVEe6erPWWd6z1FQ"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ExsNXWYVEe6erPWWd6z1FQ" name="numTxAttemptsPerLinkAndTotalTxAttempts">
+      <modelElement href="WorkLoad.uml#_B2aGVmYVEe6erPWWd6z1FQ"/>
+      <stereotypes xmi:id="_ExsNXmYVEe6erPWWd6z1FQ" name="Generics">
+        <modelElement href="WorkLoad.uml#_B2atYGYVEe6erPWWd6z1FQ"/>
+      </stereotypes>
+      <visibility xmi:id="_ExsNX2YVEe6erPWWd6z1FQ" label="-"/>
+      <cardinality xmi:id="_ExsNYGYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_ExsNYWYVEe6erPWWd6z1FQ">
+        <modelElement href="WorkLoad.uml#_B2atYWYVEe6erPWWd6z1FQ"/>
+        <type xmi:id="_ExsNYmYVEe6erPWWd6z1FQ" name="ArrayList">
+          <modelElement href="WorkLoad.uml#_B0yVsGYVEe6erPWWd6z1FQ"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_ExsNY2YVEe6erPWWd6z1FQ" name="flow">
+        <modelElement href="WorkLoad.uml#_B2aGV2YVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsNZGYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsNZWYVEe6erPWWd6z1FQ" name="Flow">
+          <modelElement href="WorkLoad.uml#_BnWWoGYVEe6erPWWd6z1FQ"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_ExsNZmYVEe6erPWWd6z1FQ" name="e2e">
+        <modelElement href="WorkLoad.uml#_B2aGWGYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsNZ2YVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsNaGYVEe6erPWWd6z1FQ" name="Double">
+          <modelElement href="WorkLoad.uml#_B2PHMGYVEe6erPWWd6z1FQ"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_ExsNaWYVEe6erPWWd6z1FQ" name="M">
+        <modelElement href="WorkLoad.uml#_B2aGWWYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsNamYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsNa2YVEe6erPWWd6z1FQ" name="Double">
+          <modelElement href="WorkLoad.uml#_B2PHMGYVEe6erPWWd6z1FQ"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_ExsNbGYVEe6erPWWd6z1FQ" name="optimizationRequested">
+        <modelElement href="WorkLoad.uml#_B2aGWmYVEe6erPWWd6z1FQ"/>
+        <cardinality xmi:id="_ExsNbWYVEe6erPWWd6z1FQ" label="1" max="1" min="1"/>
+        <type xmi:id="_ExsNbmYVEe6erPWWd6z1FQ" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>
