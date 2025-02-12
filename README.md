@@ -1,5 +1,11 @@
 # PolySched
 
-This code base will be used for the University of Iowa CS 2820 Introduction to Software Development course. The code was developed by Steve Goddard for the WARP sensor network  research project.
+DISCLAIMER: This program is not to be shared or copied without proper authorization from Steve Goddard or myself. Keep in mind this program requires other programs to work effectively and is added to this repo as a showcase of its completion and the work put into it by myself and others
 
-This is a finished polymorphic scheduler for use in a WARP sensor network, the skeleto of this code was provided by Steve Goddard and was refined to be able to use a variaety of sensors at once. Stress testing the code as well as optimizing it along the way.
+WARP: On-the-fly Program Synthesis for Agile, Real-time, and Reliable Wireless Networks. This system generates node communication programs WARP uses programs to specify a network’s behavior and includes a synthesis procedure to automatically generate such programs from a high-level specification of the system’s workload and topology.
+
+WARP uses a domain-specific language to specify stateful programs that include conditional statements to control when a flow’s packets are transmitted. The execution paths of programs depend on the pattern of packet losses observed at run-time, thereby enabling WARP to readily adapt to packet losses due to short-term variations in link quality. Our synthesis technique uses heuristics to improve network performance by considering multiple packet loss patterns and associated execution paths when determining the transmissions performed by nodes. Furthermore, the generated programs ensure that the likelihood of a flow delivering its packets by its deadline exceeds a user-specified threshold.
+
+WARP can adapt to workload and topology changes without explicitly reconstructing a network’s program based on the observation that nodes can independently synthesize the same program when they share the same workload and topology information. Simulations show that WARP improves network throughput for data collection, dissemination, and mixed workloads on two realistic topologies. Testbed experiments show that WARP reduces the time to add new flows by 5 times over a state-of-the-art centralized control plane and guarantees the real-time and reliability of all flows.
+
+This code base was used for the University of Iowa CS 2820 Introduction to Software Development course. The code was developed by Steve Goddard for the WARP sensor network research project.
